@@ -45,7 +45,7 @@
             .cur
                      {
                       color:brown;
-                      font-size:2ew;
+                      font-size:40px;
                       width:fit-content;
 
                        margin:0 auto 20px auto;
@@ -126,7 +126,7 @@
            {
            width:fit-content;
 
-           position:fixed;
+           
            border-style:dashed;
             border-color: lime;
             background-color:white;
