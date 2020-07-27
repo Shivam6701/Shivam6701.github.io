@@ -56,9 +56,11 @@
 
                      }
 
-                     .s1
+              .s1
               {
-                border-radius: 30%;
+                Width:100px;
+                Height:auto;
+                 border-radius: 30%;
               }
 
            .first
