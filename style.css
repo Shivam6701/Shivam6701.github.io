@@ -1,6 +1,6 @@
         body
         {
-               background-color:#EDEDDC;
+               background-color:#cccfb3;
               text-align:centre;
         }
          hr
@@ -11,9 +11,10 @@
               border-width:5px;
               width:10%;
               margin:0 auto 0 auto;
-              t
+              
           }
-          p{
+          
+          .p1{
             font-size: 22px;
           }
 
@@ -33,7 +34,7 @@
            .top
             {
 
-             background-color:#80F5F3;
+             background-color:#8cdfdd;
              width:100%;
              height:auto;
              margin:0 auto 0 auto;
@@ -67,12 +68,12 @@
             width:fit-content;
             text-align: center;
 
-            margin:100px auto 100px auto;
+            margin:50px auto 100px auto;
 
            }
            .pi
            {
-            border-radius:50%;
+            border-radius:100%;
            }
            .pib
            {
@@ -101,6 +102,26 @@
              margin:0 auto 30px auto;
              color: red;
            }
+           .pro-img{
+            
+            border-radius: 30%;
+            
+            
+          }
+          .pro-div{
+            width: fit-content;
+            margin:10px auto 10px auto;
+          }
+           .projects{
+            width:fit-content;
+            margin:100px auto 100px auto;
+
+           }
+           .pro-text{
+            padding-left: 50px;
+            padding-top: 20px;
+
+           }
            .third
            {
              width:fit-content;
@@ -112,7 +133,7 @@
            .four
            {
             width:fit-content;
-            margin:100px auto 100px auto;
+            margin:100px auto 200px auto;
            }
            .four-img{
              clear:left;
@@ -131,6 +152,8 @@
            border-style:dashed;
             border-color: lime;
             background-color:white;
+
+            
            }
            .con{
              background-color: orange;
